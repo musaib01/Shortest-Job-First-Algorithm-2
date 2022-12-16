@@ -1,3 +1,7 @@
+#SYED MUSAIN HUSSAIN
+#200901065
+#IMPLEMENTED USING SJF THROUGH BUBBLE SORT
+
 def bubbleSort(cooking_arr, order_arr, order_id_arr):
     n = len(order_arr)
     # optimize code, so if the array is already sorted, it doesn't need
